@@ -1,0 +1,3 @@
+El camino encontrado consiste en recorrer las ciudades tomando el siguiente recorrido de menor costo dado por el algoritmo A*.
+Camino encontrado: Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+
