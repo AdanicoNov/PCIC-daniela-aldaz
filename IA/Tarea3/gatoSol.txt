@@ -1,0 +1,55 @@
+Tablero actual:
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+
+Turno del jugador X (Maximiza)
+Tablero actual:
+['X', ' ', ' ']
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+
+Turno del jugador O (Minimiza)
+Tablero actual:
+['X', ' ', ' ']
+[' ', 'O', ' ']
+[' ', ' ', ' ']
+
+Turno del jugador X (Maximiza)
+Tablero actual:
+['X', 'X', ' ']
+[' ', 'O', ' ']
+[' ', ' ', ' ']
+
+Turno del jugador O (Minimiza)
+Tablero actual:
+['X', 'X', 'O']
+[' ', 'O', ' ']
+[' ', ' ', ' ']
+
+Turno del jugador X (Maximiza)
+Tablero actual:
+['X', 'X', 'O']
+[' ', 'O', ' ']
+['X', ' ', ' ']
+
+Turno del jugador O (Minimiza)
+Tablero actual:
+['X', 'X', 'O']
+['O', 'O', ' ']
+['X', ' ', ' ']
+
+Turno del jugador X (Maximiza)
+Tablero actual:
+['X', 'X', 'O']
+['O', 'O', 'X']
+['X', ' ', ' ']
+
+Turno del jugador O (Minimiza)
+Tablero actual:
+['X', 'X', 'O']
+['O', 'O', 'X']
+['X', 'O', ' ']
+
+Turno del jugador X (Maximiza)
+Es un empate!
