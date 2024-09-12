@@ -8,7 +8,7 @@ class Backtracking:
     def recursiveBacktracking(self, i, p):
         """ 
         p: definition of the problem
-        k: current iteration 
+        i: current iteration 
         """
         
         #La solucion es completa?
