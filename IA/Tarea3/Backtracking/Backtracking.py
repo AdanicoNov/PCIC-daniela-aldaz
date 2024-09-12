@@ -14,7 +14,7 @@ class Backtracking:
         #La solucion es completa?
         if i == self.n:
             success = True
-            xp.all_boards[len(p.all_boards)] = p.current_board.copy()
+            p.all_boards[len(p.all_boards)] = p.current_board.copy()
                     
             return True
         
